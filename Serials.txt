@@ -1,0 +1,5 @@
+Octopus
+/dev/serial/by-id/usb-Klipper_stm32f446xx_310012001550324E31333220-if00
+
+SuperNova
+/dev/serial/by-id/usb-Klipper_stm32f103xe_507A150000C054281007D807-if00

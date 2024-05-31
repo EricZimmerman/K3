@@ -24,6 +24,9 @@ cors_domains =
 
 [history]
 
+[spoolman]
+server = http://192.168.1.80:7912
+
 [update_manager]
 channel = dev
 refresh_interval = 168

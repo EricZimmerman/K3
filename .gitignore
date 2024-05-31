@@ -1,3 +1,5 @@
 saved_variables.cfg
 adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
+.moonraker.conf.bkp
+config_backups/*.cfg
